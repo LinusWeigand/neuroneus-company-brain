@@ -4,7 +4,7 @@
 
 **The argument for the company brain, and the simulations that make it legible.**
 
-`www.limitless-stack.com`
+`www.couchtec.org`
 
 <sub>React 19 · TypeScript 6 · Vite 7 · d3-force · Vercel Functions · Neon Postgres</sub>
 
